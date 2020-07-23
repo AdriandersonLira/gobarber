@@ -82,5 +82,6 @@ module.exports = {
 ```bash
 $ yarn add uuidv4
 $ yarn add -D @types/uuidv4
+$ yarn add typeorm pg
 ```
 
