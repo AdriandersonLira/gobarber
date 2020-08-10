@@ -83,5 +83,7 @@ module.exports = {
 $ yarn add uuidv4
 $ yarn add -D @types/uuidv4
 $ yarn add typeorm pg
+$ yarn add bcryptjs
+$ yarn add -D @types/bcryptjs
 ```
 
