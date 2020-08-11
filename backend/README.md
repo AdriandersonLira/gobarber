@@ -85,5 +85,7 @@ $ yarn add -D @types/uuidv4
 $ yarn add typeorm pg
 $ yarn add bcryptjs
 $ yarn add -D @types/bcryptjs
+$ yarn add jsonwebtoken
+$ yarn add -D @types/jsonwebtoken
 ```
 
